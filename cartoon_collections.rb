@@ -24,4 +24,4 @@ def find_the_cheese(maybe_cheeses)
   # cheeses_types = ["cheddar", "gouda", "camembert"]
  end
 end
-find_the_cheeses(maybe_cheeses)
+find_the_cheese(maybe_cheeses)
